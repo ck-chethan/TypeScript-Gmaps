@@ -9,5 +9,5 @@ const company = new Company();
 
 const customMap = new CustomMap('map');
 
-customMap.addUserMarker(usr);
-customMap.addCompanymarker(company);
+customMap.addMarker(usr);
+customMap.addMarker(company);
